@@ -288,7 +288,7 @@ if [ -d $folder/var ];then
 
   	echo "#!/bin/bash
 
-              wget https://raw.githubusercontent.com/reizutoles/alpine-linux-termux/main/alpine-xfce.sh /root/alpine-xfce.sh
+              wget https://raw.githubusercontent.com/reizutoles/alpine-linux-termux/main/alpine-xfce.sh -O /root/alpine-xfce.sh
 
               bash /root/alpine-xfce.sh
 
