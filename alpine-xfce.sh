@@ -6,7 +6,7 @@ apk add sudo
 
 DISPLAY=:99
 
-RESOLUTION=1280x720x24
+RESOLUTION=1920x1080x24
 
 apk add --no-cache ca-certificates curl openssl xvfb x11vnc xfce4 xfce4-terminal faenza-icon-theme dbus-x11 bash
 
