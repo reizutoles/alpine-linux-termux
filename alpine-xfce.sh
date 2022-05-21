@@ -122,7 +122,7 @@ else
 
 	esac
 
-	url=https://github.com/AndronixApp/AndronixOrigin/blob/master/Rootfs/Alpine/${archurl}/alpine-minirootfs-3.10.3-${archurl}.tar.gz?raw=true
+	url=https://github.com/reizutoles/alpine-linux-termux/blob/main/Rootfs/${archurl}/alpine-minirootfs-3.15.4-${archurl}.tar.gz?raw=true
 
 	echo "Downloading and extracting $name"
 
